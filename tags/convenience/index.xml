@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Convenience on Home</title>
+    <link>https://simplicity-load.github.io/tags/convenience/</link>
+    <description>Recent content in Convenience on Home</description>
+    
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2022 22:00:00 +0000</lastBuildDate><atom:link href="https://simplicity-load.github.io/tags/convenience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tailscale dhe përdorimi i tij</title>
+      <link>https://simplicity-load.github.io/blog/tailscale/</link>
+      <pubDate>Mon, 24 Oct 2022 22:00:00 +0000</pubDate>
+      
+      <guid>https://simplicity-load.github.io/blog/tailscale/</guid>
+      <description>Tailscale është një shërbim dhe gjithashtu një program i dedikuar për të krijuar një rrjet privat ndërmjet pajisjeve &amp;ldquo;smart&amp;rdquo;. Arsyeja e këtij shërbimi është të lehtësojë qasjen në krijimin e rrjeteve private për raste të ndryshme përdorimi duke larguar pjesën më të vështirë të krijimit të tyre, konfigurimin adekuat.
+Ideali i lidhjes së pajisjeve (nodes). Ilustrimi nga Tailscale Krijimi i një rrjeti privat me Tailscale Fillimisht qasemi në faqen e Tailscale dhe krijojmë një llogari përmes një ofrues të identetit.</description>
+    </item>
+    
+  </channel>
+</rss>
